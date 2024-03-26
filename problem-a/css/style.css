@@ -1,0 +1,20 @@
+/* Makes the font size 16px and font Helvetica Nueue for the every elemet in the body*/
+body {
+    font-size: 16px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* Paragraph line height 1.5x of the font size */
+p {
+    line-height: 1.5;
+}
+
+/* limits the image to 400 pixels*/
+img {
+    max-height: 400px;
+}
+
+/* highlights using color lightblue*/
+.highlighted {
+    color: lightblue;
+ }
